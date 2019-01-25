@@ -1,6 +1,6 @@
 # angry-bot
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that Checks for bad practices in code changes in pull requests and punishes the writer verbally
+> A GitHub App that will verbally abuse people in pull requests when bad formatting/practices are found in their code. The bot will speak your mind for you, so you can avoid getting reported to HR! Built with [Probot](https://github.com/probot/probot)
 
 ## Setup
 
@@ -11,12 +11,6 @@ npm install
 # Run the bot
 npm start
 ```
-
-## Contributing
-
-If you have suggestions for how angry-bot could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
-
-For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
